@@ -1,7 +1,7 @@
-API_ID       = 12124605
-API_HASH     = "5cf3577d85fd02286535ec2296934287"
-BOT_TOKEN    = "6083504683:AAEZZAePsjvcKGWOAMNTlaveNl7DD5KZLyo"
-SESSION      = "BQEVDDgAqAeqpwh6ISGOHhApFeAW2aOQ1fgvqNm5kH5dR2DFH3AGfjSAG6gtsq4Mz2Ra6uekSou5X1Breuqjs-DTnHtHNfRVDj3RB86iRFlIF1mA7R4kHDvGF-qVFGMbUjePCSFarxFZch-AHNN4SspYH_i3KHN5h_juhSOSlT5O2iVGIq2CNp22_aPxWkifsBrQnUuyJ3tKTy7_HQ734ICQ5RATZtWtMdO0kCUbY6TyhgYJ0L8jm7AnsqnEmBdM2UkF4fuuasDrOmDocrm39vbITKNgjnucAODx2AtY8bSD5qNDx-BH_vIORzuGF72wqzU19kDzlpyb_-Uqx483blPHyKfOQgAAAAFhSwkGAA"
-DATABASE_URI = "mongodb+srv://MdiskDb:MdiskDb@cluster0.lmirmtn.mongodb.net/?retryWrites=true&w=majority"
-LOG_CHANNEL  = -1001980857896
-ADMIN        = 6051691339
+API_ID       = 19495376
+API_HASH     = "62e8e48d4cc1dc6f120c0cf5961ba8ab"
+BOT_TOKEN    = "6457169686:AAF-ODwQvW_cRTi8z_OfpuPBFpoJQe5DEZQ"
+SESSION      = "AQEpedAApfj83ri5S3-25jbHZsa1BU6jZWrIeuRBQ4mXrfwGtB2gxJbcyoe3_Ln_8zI9cPrk56y12609BOFD6HBJTOb64wctJiMV0pU37uftMEG_UX2DEu-zzmlZCDwmysuHIE_OMMMyuyzlfg1krX_KeTub6WpzzhkyYrfpK2wvdGB-bmthTVy-_C5ZIY_4B8gES3ncvg-JPzI6B37I0OM6W3ZW-wGEqfCvKFdQSkzYbtoxQNxyuiwQ3nokBIqk_SO7CgjbGhFEmjkrCMsNsaKtVT_L-JVPnfyPmChaQdmJQ0-gecy6aQYZ2_80LciCXmq9Iwe-cqVrfSFdPozzM0N0xGxx-AAAAAErah0eAA"
+DATABASE_URI = "mongodb+srv://Cluster0:Cluster0@cluster0.abbxkvu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+LOG_CHANNEL  = -1001912362438
+ADMIN        = 5023341854
